@@ -19,6 +19,7 @@ $light-medium:   #969696;
 $dark-blue:      #215A6D;
 $light-blue:     #3CA2A2;
 $green:          #92C7A3;
+$gray:           #6D6B6B;
 $light:          #DFECE6;
 $white:          #FFFFFF;
 $dark-purple:    #300030;
@@ -126,7 +127,7 @@ ul {
 }
 
 .content-panel {
-	background-color: $medium;
+	background-color: $gray;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	padding-left: 30px;
